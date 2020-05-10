@@ -5,4 +5,4 @@
 
 3.在AndroidManifest.xml文件中注册BrowserActivity，设置其意图过滤器。还要添加uses-permission来使用网络。category.DEFAULT一定要设置，不然在选择浏览器时看不到该应用。
 
-4.![image](https://github.com/wuji-coder/WebView/blob/master/image/WebView.png)
+![image](https://github.com/wuji-coder/WebView/blob/master/image/WebView.png)
